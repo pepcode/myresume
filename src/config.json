@@ -1,0 +1,91 @@
+{
+    "name" : "Praveen Kumar Manoharan",
+    "email" : "praveen83.7@gmail.com",
+    "phone" : "201 706 0803",
+
+    "intro": [
+        "16+ years of experience in Software development, played various roles as developer, development lead, System Analyst, design lead, technical delivery lead and architect solution designer.",
+        "Expertise in Java, J2EE, JMS, Spring, Junit, Mockito, WebSphere, Docker, JBoss, OpenShift and Oracle.",
+        "Experienced in ANT, MAVEN, Gulp, Gradle build tools",
+        "RESTful Architecture & SOAP web services.",
+        "Expertise in the web designing technologies like HTML, CSS, Java Script, PHP, MySQL, Eclipse, SVN, CVS, GitHub, Jenkins, Vert.x",
+        "Expertise in Object Oriented Analysis and Design (OOAD), OOPS using Unified Modeling Language (UML), Design Patterns, MVC Frameworks.",
+        "Expert in Sprint and Agile, application development and management",
+        "Mentor/Technical Grooming of team members."
+    ],
+    "education": [
+        "Bachelor Technology, (Information Technology) - University of Chennai – India."
+    ],
+    "others": {
+        "VISA Status": "H1B"
+    },
+    "experience": [
+        {
+            "companyName": "American Express",
+            "startdate": "June 2015",
+            "enddate": "present",
+            "title": "Senior Engineer",
+            "project": "Online Customer Engagement",
+            "snapshot": [
+                "Primary role involved in architect solution designs for online customer engagement application, involves solution with creation of Microservice from design, build and deployment into cloud environment.",
+                "Implemented the cloud migration for the project which involves migrating the application from IBM WebSphere to JBoss environment in OpenShift cloud.",
+                "Created REST API’s with Spring REST controllers and REST Easy.  Implemented the unit test, integration test and automations test suites for the API’s.",
+                "Implemented the CI/CD pipeline process for the project with integration with the SonarQube for getting the necessary build/deployment metrics",
+                "Good experience in SCRUM process of Agile (Iterative) development methodology.",
+                "Created and used SOAP and REST service as part of the API management.",
+                "Performed End to end test support for the application involving integration, functional, regression, system and user acceptance testing.",
+                "Strong experience with SOAP and REST webservice consuming (JAX-RS, JAX-WS, CXF, Axis, JAXB).",
+                "Skills used – Java 8, spring, REST Easy, Apache CFX, Maven, Jenkins, Angular Js, jQuery, OpenShift, Docker, gulp, eclipse, Jenkins, jBoss, WebSphere"
+            ] 
+        },
+        {
+            "companyName": "DIRECT TV ",
+            "startdate": "October 2012",
+            "enddate": "April 2015",
+            "title": "Tech. Lead ",
+            "project": "Dotcom",
+            "snapshot": [
+                "Involved in end to end software life cycle process for the new RWD website of Dotcom.",
+                "Responsible for Design and development of Restful service using the Scala and play framework, with reusable jars using Spring & Hibernate.",
+                "Developed Web services to consume data from different systems. Also accessed other Web services to post the data.",
+                "Preparation of Software Design Document (SDD) both High Level and Low-Level Design Documents, with the class and sequences.",
+                "Developed database modules; writing Stored Procedure and Triggers to incorporate database intensive business logic.",
+                "Involved in sprint planning, task creation and estimation",
+                "Skills used - Java, spring, hibernate, Scala & Play, JPA, Maven, Jenkins, Angular Js, Node JS, jQuery, less, grunt, SBT"
+            ] 
+        },
+        {
+            "companyName": "British Telecom",
+            "startdate": "July 2008",
+            "enddate": "October 2012",
+            "title": "Tech. Lead",
+            "project": "Field Optimization Suite",
+            "snapshot": [
+                "Designing the new hardware architecture and fail over strategy.",
+                "Planning & execution of the complete Oracle and web logic upgrade ",
+                "Involved in end to end coding for FOS components (forecasting, planning, people management and reporting) for multiple LOBs.",
+                "Created business layer logic using core java and EJB.",
+                "Created Batch processing for migrating data from one database to another.",
+                "Involved in writing SQL, PLSQL to load the data from the different system.",
+                "Involved in trouble-shooting and debugging issues with complex based programs.",
+                "As a Team Lead, I have involved offshore project co-ordination and planning and involved in preparation of detailed project plan for every week, metric sheet for every month and preparation of release notes and file inventory list for every code delivery.",
+                "Maintain high standards of software quality within the team by establishing good practices and habits.",
+                "Skills used - Java, J2EE, Struts, oracle 11g, oracle 10g, WebLogic, Unix, Hunter, JIRA, Tomcat"
+            ] 
+        },
+        {
+            "companyName": "Thomson Education ",
+            "startdate": "Sep 2004",
+            "enddate": "Jul 2008",
+            "title": "Developer",
+            "project": "thomsonedu.com",
+            "snapshot": [
+                "Involved in requirement gathering, system design and implementation. ",
+                "Used STRUTS, spring Frame Work for setting up the entire Web application.",
+                "Involved in database design, development and coding of stored Procedures using PL/SQL.",
+                "Skill Used: Java, J2EE, spring, Struts, Velocity, ANT, Maven, Oracle, EJB 2.1"
+
+            ] 
+        }
+    ]
+}
